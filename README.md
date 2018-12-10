@@ -3,7 +3,7 @@
 A minimalist version of Gutenberg's editor. Ideal for checking your custom blocks.
 
 ``` bash
-npm install @frontkom/g-editor
+npm install @ConsciousEconomy/g-editor
 npm start
 ```
 
